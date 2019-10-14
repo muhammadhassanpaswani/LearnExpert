@@ -1,0 +1,20 @@
+{
+  "name": "learnxpert",
+  "version": "1.0.0",
+  "description": "single page layout which is made by html $css $js",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "M.Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lightbox": "^0.5.0",
+    "parcel-bundler": "^1.12.3",
+    "popper.js": "^1.15.0",
+    "rater-js": "^1.0.1"
+  }
+}
